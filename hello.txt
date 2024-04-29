@@ -1,1 +1,2 @@
-Git Command 1
+Git Command types
+Git command 1
